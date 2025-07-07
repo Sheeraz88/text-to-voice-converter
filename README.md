@@ -24,7 +24,7 @@ This is a simple and easy-to-use **Text to Voice Converter** built using **HTML,
  Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/text-to-voice-converter.git
+https://github.com/Sheeraz88/text-to-voice-converter.git
 
 
 **File Structure**
